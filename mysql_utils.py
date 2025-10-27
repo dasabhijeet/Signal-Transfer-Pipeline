@@ -32,3 +32,5 @@ def insert_signal(email_identifier, domain_reputation, url_entropy, sender_spoof
 # ideas implemented:
 # spoofed is taken in as int values i.e. True = 1, False = 0
 # each table has its own primary key
+
+# repo: https://github.com/dasabhijeet/Signal-Transfer-Pipeline
