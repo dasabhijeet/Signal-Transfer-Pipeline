@@ -11,7 +11,7 @@ A lightweight Flask backend that ingests email metadata, validates inputs, compu
 - Rate limiting to prevent abuse
 - Modular MySQL integration (or mock mode for testing)
 
-## Folder Structure
+## Folder Structure:
 
 ```
 Signal-Transfer-Pipeline/
