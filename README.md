@@ -11,6 +11,8 @@ A lightweight Flask backend that ingests email metadata, validates inputs, compu
 - Rate limiting to prevent abuse
 - Modular MySQL integration (or mock mode for testing)
 
+#### Generate requirements.txt using: ```pip install pipreqs``` (run pipreqs in project folder)
+
 ## Folder Structure:
 
 ```
